@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Anika!
-👩🏻‍💻 Computer Science & Artificial Intelligence student who enjoys using tech to solve everyday problems<br>👩🏻‍🎓 Studying Computer Science & Artificial Intelligence at IIIT-Delhi (Indraprastha Institute of Information Technology)<br>🤖 Learning and experimenting with Machine Learning, Agentic AI, and Multi-Agent AI systems<br>🧠 Enjoy problem-solving through DSA, logical thinking, and systems<br>🎨 Interested in design where clean visuals meet thoughtful UX<br>🌱 Learning by doing and sharing along the way
+👩🏻‍💻 CS & AI student who enjoys using tech to solve everyday problems<br>👩🏻‍🎓 Studying Computer Science & Artificial Intelligence at IIIT-Delhi (Indraprastha Institute of Information Technology)<br>🤖 Learning and experimenting with Machine Learning, Agentic AI, and Multi-Agent AI systems<br>🧠 Enjoy problem-solving through DSA, logical thinking, and systems<br>🎨 Interested in design where clean visuals meet thoughtful UX<br>🌱 Learning by doing and sharing along the way
 
 
 ## 🌐 Socials
@@ -12,7 +12,7 @@
 
 🔗 [LeetCode Profile](https://leetcode.com/u/anika450/)  
 
-![](https://leetcard.jacoblin.cool/anika23086?theme=dark&font=Karma)
+![](https://leetcard.jacoblin.cool/anika450?theme=dark&font=Karma&ext=heatmap)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=anika23086&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
